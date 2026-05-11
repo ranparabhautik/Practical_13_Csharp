@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Practical_13.Models.ViewModel.CountEmp>
+
+@{
+    ViewBag.Title = "CountEmpByDesignation";
+}
+
+<h2>CountEmpByDesignation</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Designation</th>
+            <th>Count</th>
+        </tr>
+        
+    </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                       @item.Designation
+                </td>
+                    <td>
+                        @item.Count
+                    </td>
+            </tr>
+        }
+        </tbody>
+</table>
+@Html.ActionLink("Back to List","Index","Employee_2");

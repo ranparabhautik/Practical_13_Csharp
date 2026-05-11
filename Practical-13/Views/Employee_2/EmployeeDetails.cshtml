@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Practical_13.Models.ViewModel.EmployeeVM>
+
+@{
+    ViewBag.Title = "EmployeeDetails";
+}
+
+<h2>EmployeeDetails</h2>
+
+<p> Data showing using LINQ query</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(x => x.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(x => x.Desig)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Middle_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Last_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DOB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MobileNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Desig)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.First_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Middle_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Last_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MobileNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+
+        </tr>
+    }
+
+</table>
+@Html.ActionLink("Back to List", "Index", "Employee_2");

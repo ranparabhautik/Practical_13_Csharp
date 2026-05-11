@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\practical-13\\practical-13\\controllers\\employee_2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\controllers\\employee_2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\designation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\designation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\designation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\designation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\employee_2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\employee_2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\employee_2\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\employee_2\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\employee_2\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\employee_2\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\employee_2\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\employee_2\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\employee_2\\countempbydesignation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\employee_2\\countempbydesignation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\models\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\models\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\practical-13\\models\\viewmodel\\countemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD7166E-79AD-486D-A27C-2E86B2DD1AE1}|Practical-13\\Practical-13.csproj|solutionrelative:practical-13\\models\\viewmodel\\countemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Designation\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Designation\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Designation\\Edit.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Designation\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T11:10:12.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practical-13\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practical-13\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:58:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "Practical-13\\Controllers\\DesignationController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "Practical-13\\Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:56:57.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Designation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Designation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Designation\\Index.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Designation\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:53:35.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Employee_2\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\Edit.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Employee_2\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:53:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Employee_2\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\Create.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Employee_2\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:53:00.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:52:01.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountEmp.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Models\\ViewModel\\CountEmp.cs",
+              "RelativeDocumentMoniker": "Practical-13\\Models\\ViewModel\\CountEmp.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Models\\ViewModel\\CountEmp.cs",
+              "RelativeToolTip": "Practical-13\\Models\\ViewModel\\CountEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:41:28.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountEmpByDesignation.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\CountEmpByDesignation.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Employee_2\\CountEmpByDesignation.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\CountEmpByDesignation.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Employee_2\\CountEmpByDesignation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:38:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Models\\ViewModel\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "Practical-13\\Models\\ViewModel\\EmployeeVM.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Models\\ViewModel\\EmployeeVM.cs",
+              "RelativeToolTip": "Practical-13\\Models\\ViewModel\\EmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:32:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\EmployeeDetails.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Employee_2\\EmployeeDetails.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\EmployeeDetails.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Employee_2\\EmployeeDetails.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:27:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practical-13\\Views\\Employee_2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Views\\Employee_2\\Index.cshtml",
+              "RelativeToolTip": "Practical-13\\Views\\Employee_2\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:27:21.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practical-13\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practical-13\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:26:26.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee_2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Controllers\\Employee_2Controller.cs",
+              "RelativeDocumentMoniker": "Practical-13\\Controllers\\Employee_2Controller.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\Practical-13\\Practical-13\\Controllers\\Employee_2Controller.cs",
+              "RelativeToolTip": "Practical-13\\Controllers\\Employee_2Controller.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:24:05.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
